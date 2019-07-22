@@ -1,0 +1,91 @@
+RewriteEngine On
+Options +FollowSymlinks 
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+
+RewriteRule ^english$ index.php?page=page-home&lang=eng
+RewriteRule ^tieng-viet$ index.php?page=page-home&lang=vn
+
+RewriteRule ^gioi-thieu/([^/]*)$ index.php?page=page-about&spageid=$1
+RewriteRule ^gioi-thieu/([^/]*)/([^/]*)$ index.php?page=page-about&spageid=$1&spageidsub=$2
+
+RewriteRule ^dich-vu/([^/]*)$ index.php?page=page-service&spageid=$1
+RewriteRule ^dich-vu/([^/]*)/([^/]*)$ index.php?page=page-service&spageid=$1&spageidsub=$2
+
+RewriteRule ^cam-nghi-khach-hang$ index.php?page=page-testimonials&sckind=4
+RewriteRule ^cam-nghi-khach-hang/([0-9]*)$ index.php?page=page-testimonials&pz=$1&sckind=4
+RewriteRule ^cam-nghi-khach-hang/([^/]*)$ index.php?page=page-testimonials-view&snewsid=$1&sckind=4
+
+RewriteRule ^nhan-su-chu-luc-vigor$ index.php?page=page-team-vigor
+
+RewriteRule ^nhan-su-chu-luc$ index.php?page=page-team&sckind=5
+RewriteRule ^nhan-su-chu-luc/([^/]*)$ index.php?page=page-team-view&snewsid=$1&sckind=5
+
+RewriteRule ^tin-tuc$ index.php?page=page-news&sckind=1
+RewriteRule ^tin-tuc/([0-9]*)$ index.php?page=page-news&sckind=1&pz=$1
+
+RewriteRule ^tin-tuc/([^/]*)$ index.php?page=page-news&sckind=1&scnewsid=$1
+RewriteRule ^tin-tuc/([^/]*)/([0-9]*)$ index.php?page=page-news&sckind=1&scnewsid=$1&pz=$2
+RewriteRule ^tin-tuc/([^/]*)/([^/]*)$ index.php?page=page-news-view&sckind=1&scnewsid=$1&snewsid=$2
+
+RewriteRule ^dien-dan$ index.php?page=page-faq&sckind=7
+RewriteRule ^dien-dan/([0-9]*)$ index.php?page=page-faq&pz=$1&sckind=7
+RewriteRule ^dien-dan/([^/]*)$ index.php?page=page-faq-reply&snewsid=$1&sckind=7
+
+RewriteRule ^xem-ho-so$ page-login.php
+RewriteRule ^dat-cau-hoi$ index.php?page=page-faq-ask#askFaq
+
+RewriteRule ^lien-he$ index.php?page=page-contact
+RewriteRule ^send-mail$ sendmail.php
+RewriteRule ^send-mail-faq$ sendmail.php?faqsubmit=1
+
+RewriteRule ^khach-hang-vigor$ index.php?page=page-customers-vigor
+
+RewriteRule ^khach-hang$ index.php?page=page-customers
+RewriteRule ^site-map$ index.php?page=page-sitemap
+
+RewriteRule ^thu-vien-anh$ index.php?page=page-gallery
+RewriteRule ^thu-vien-anh/([0-9]*)$ index.php?page=page-gallery&pz=$1
+
+RewriteRule ^thu-vien-anh/([^/]*)$ index.php?page=page-gallery-view&sid=$1
+RewriteRule ^thu-vien-anh/([^/]*)/([0-9]*)$ index.php?page=page-gallery-view&sid=$1&pz=$2
+
+RewriteRule ^dang-ky-nhan-tin$ page-user.php?action=nhanmail
+
+RewriteRule ^download-file/([^/]*)$ download.php?file=$1
+
+RewriteRule ^video$ index.php?page=page-video
+
+RewriteRule ^tuyendung$ index.php?page=page-tuyendung
+
+RewriteRule ^demo-1$ index.php?page=page-demo1
+
+<IfModule mod_deflate.c>
+SetOutputFilter DEFLATE
+# Don’t compress
+SetEnvIfNoCase Request_URI \.(?:gif|jpe?g|png)$ no-gzip dont-vary
+SetEnvIfNoCase Request_URI \.(?:exe|t?gz|zip|bz2|sit|rar)$ no-gzip dont-vary
+#Dealing with proxy servers
+<IfModule mod_headers.c>
+Header append Vary User-Agent
+</IfModule>
+</IfModule>
+
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/jpg "access plus 1 year"
+ExpiresByType image/jpeg "access plus 1 year"
+ExpiresByType image/gif "access plus 1 year"
+ExpiresByType image/png "access plus 1 year"
+ExpiresByType text/css "access plus 1 month"
+ExpiresByType application/pdf "access plus 1 month"
+ExpiresByType text/x-javascript "access plus 1 month"
+ExpiresByType application/x-shockwave-flash "access plus 1 month"
+ExpiresByType image/x-icon "access plus 1 year"
+ExpiresDefault "access plus 2 days"
+</IfModule>
+RewriteCond %{HTTP_HOST} ^live\.vigorhealth\.com\.vn$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.live\.vigorhealth\.com\.vn$
+RewriteRule ^/?$ "http\:\/\/vigorhealth\.com\.vn\/lhc_web\/index\.php\/site_admin\/user\/login" [R=301,L]
+

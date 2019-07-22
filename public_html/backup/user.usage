@@ -1,0 +1,16 @@
+bandwidth=3510.7
+db_quota=2597357
+domainptr=0
+email_deliveries=0
+email_deliveries_incoming=0
+email_deliveries_outgoing=0
+email_quota=8192
+ftp=1
+mysql=1
+nemailf=0
+nemailml=0
+nemailr=0
+nemails=1
+nsubdomains=0
+quota=211.9
+vdomains=1

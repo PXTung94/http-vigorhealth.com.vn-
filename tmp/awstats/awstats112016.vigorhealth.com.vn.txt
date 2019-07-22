@@ -1,0 +1,686 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201611 will be lost/reset.
+# Last config file used to build this data file was /home/vigorhea/tmp/awstats/awstats.vigorhealth.com.vn.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2687                
+POS_VISITOR 13840               
+POS_DAY 19420               
+POS_DOMAIN 3436                
+POS_LOGIN 3753                
+POS_ROBOT 3908                
+POS_WORMS 4486                
+POS_EMAILSENDER 4617                
+POS_EMAILRECEIVER 4760                
+POS_SESSION 19564               
+POS_SIDER 19772               
+POS_FILETYPES 4895                
+POS_DOWNLOADS 5140                
+POS_OS 5307                
+POS_BROWSER 5556                
+POS_SCREENSIZE 6762                
+POS_UNKNOWNREFERER 6836                
+POS_UNKNOWNREFERERBROWSER 7509                
+POS_ORIGIN 8042                
+POS_SEREFERRALS 8188                
+POS_PAGEREFS 8345                
+POS_SEARCHWORDS 12574               
+POS_KEYWORDS 12726               
+POS_MISC 2351                
+POS_ERRORS 12785               
+POS_CLUSTER 3609                
+POS_SIDER_404 12911               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170626191806 1 0 13139525096583
+FirstTime 20161105112642
+LastTime 20161107101827
+LastUpdate 20170627075756 1 0 0 0 0
+TotalVisits 133                 
+TotalUnique 117                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 149                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 3 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 11 49 5672100 8 10 203712
+1 14 69 5036871 7 10 155013
+2 0 0 0 15 23 454410
+3 4 7 365079 20 25 871336
+4 2 3 71363 22 42 2987609
+5 7 9 175128 34 59 2079771
+6 15 100 6199475 8 13 855548
+7 427 540 13819414 241 273 4037213
+8 1674 2157 40529356 268 277 635849
+9 2227 2733 54353212 122 140 663252
+10 582 855 34408064 18 28 1574044
+11 238 321 6434276 19 21 83955
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 17 181 15690040 11 28 1334130
+20 19 181 13838914 46 58 1358127
+21 49 278 28445773 21 25 780645
+22 24 144 13941201 9 18 1728557
+23 33 200 19057191 8 11 89513
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+vn 5311 7683 247693888
+us 26 135 9658518
+br 2 2 46981
+in 2 3 37493
+jp 1 2 37542
+cn 1 1 9698
+ru 0 1 553337
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+googlebot 169 4102547 20161107095354 0
+bot[\s_+:,\.\;\/\\-] 89 6386926 20161107093002 0
+no_user_agent 26 969365 20161107095350 0
+googlebot\-image 16 4076050 20161107074731 0
+robot 12 140687 20161107101438 0
+[\s_+:,\.\;\/\\-]bot 9 2251433 20161107020129 0
+bingpreview 4 8659 20161107052108 0
+spider 3 28954 20161107080715 0
+google[_+\s]web[_+\s]preview 2 37545 20161106225040 0
+msnbot\-media 1 3060 20161107074450 0
+slurp 1 9690 20161106200019 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 140 875792 0 0
+php 4 15715 0 0
+js 336 3769214 0 0
+ogg 4 53403 0 0
+Unknown 3359 13256334 0 0
+png 1208 104580941 0 0
+html 1976 9477889 0 0
+jpg 796 125882925 0 0
+woff 4 125244 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/lhc_web/design/defaulttheme/sound/new_message.ogg 3 0 42843
+/lhc_web/design/defaulttheme/sound/new_chat.ogg 1 0 10560
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+winxp 69 9
+linuxandroid 754 219
+macosx 1 1
+win16 1 1
+win8.1 148 19
+winlong 3 0
+winunknown 300 300
+Unknown 174 173
+ios_iphone 377 69
+win8 45 2
+win7 5687 4504
+ios_ipad 3 2
+winnt 265 44
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 57
+chrome52.3.2743.132 1 1
+chrome47.0.2526.111 1 1
+chrome52.3.2743.134 280 15
+msie9.0 73 7
+nsplayer 2 2
+safari8.0 5 4
+chrome53.0.2785.124 64 13
+safari9.0 7 3
+android 43 38
+lg\- 1 1
+chrome49.0.2623.112 3 1
+firefox49.0 3342 3278
+chrome52.3.2743.120 2 2
+firefox40.1 1 1
+chrome30.0.0.0 48 11
+chrome49.0.2623.105 6 4
+chrome38.0.0.0 9 7
+chrome50.3.2661.120 1 0
+safari 263 42
+chrome34.0.1847.76 2 1
+firefox11.0 2 0
+chrome30.0.1599.103 1 1
+mozilla 11 11
+chrome54.0.2840.68 231 66
+chrome51.0.2704.81 1 1
+chrome44.0.2403.133 168 36
+safari7.0 3 1
+chrome13.0.782.41 3 0
+firefox37.0 2 2
+chrome53.0.2785.116 1 0
+chrome47.0.2526.83 1 1
+firefox50.0 5 4
+chrome43.0.2357.93 49 2
+safari10.3.2.2639 1 1
+chrome53.0.2785.97 32 2
+chrome38.0.2125.102 6 3
+samsung 2 2
+chrome45.2.2454.109 63 7
+itunes 1 1
+chrome39.0.0.0 2 1
+chrome51.3.2704.124 3 2
+chrome43.0.2357.121 1 1
+chrome54.0.2840.71 1956 1209
+chrome52.3.2743.130 57 2
+chrome52.0.2743.98 20 16
+chrome50.0.2661.89 3 2
+chrome54.0.2840.87 366 39
+chrome53.0.2785.143 55 7
+chrome54.0.2840.85 56 6
+chrome46.0.2490.85 1 0
+iphone 12 12
+safari10.0 89 8
+ossproxy 4 4
+Unknown 459 459
+netscape5.0 2 0
+chrome37.0.0.0 2 1
+chrome33.0.0.0 2 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+NSPlayer/12.00.9651.0000_WMFSDK/12.00.9651.0000 20161107091331
+Mozilla/4.0_(compatible;_ICS) 20161107074211
+Mozilla/5.0_(BB10;_Touch)_AppleWebKit/537.35__(KHTML,_like_Gecko)_Version/10.3.2.2639_Mobile_Safari/537.35_ 20161106233319
+ARM_WinINet_Downloader 20161107082802
+IPM 20161107094427
+Mozilla/5.0_(Android_6.0.1;_Mobile;_rv:49.0)_Gecko/49.0_Firefox/49.0 20161107064046
+Avast_SimpleHttp/3.0 20161107101822
+MpCommunication 20161107094741
+Coccoc_Update/2.5.15.13;winhttp 20161107075914
+NhacCuaTui/5.6.8 20161107091926
+McHttp 20161107072450
+Opera_autoupdate_agent/1.1.11 20161107101040
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 12
+Avast_SimpleHttp/3.0 20161107101822
+Coccoc_Update/2.5.15.13;winhttp 20161107075914
+Microsoft-Delivery-Optimization/10.0 20161107084052
+MpCommunication 20161107094741
+McHttp 20161107072450
+Windows-Update-Agent 20161107090901
+NhacCuaTui/5.6.8 20161107091926
+Microsoft_BITS/7.5 20161107094738
+Opera_autoupdate_agent/1.1.11 20161107101040
+Zalo/5.2.4_CFNetwork/808.0.2_Darwin/16.0.0 20161107083242
+ARM_WinINet_Downloader 20161107082802
+IPM 20161107094427
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 548 559
+From1 1 1
+From2 31 55
+From3 192 263
+From4 4571 6949
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 31 55
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 53
+http://healthcare.com.vn/vi/tin-tuc/tin-tuc-vigor/phong-kham-vigor-health-to-chuc-tiec-mung-ngay-phu-nu-vn-20-thang-10_239.html 85 133
+http://m.thethaovanhoa.vn/the-thao/cap-nhat-tin-sang-7-11-liverpool-danh-chiem-ngoi-dau-man-united-don-dap-don-tin-vui-real-giu-chan-ronaldo-n20161107065115260.htm 12 12
+http://healthcare.com.vn 10 12
+http://langnhincuocsong.com/video-box 6 6
+http://healthcare.com.vn/vi/tin-tuc/tin-tuc-vigor/phong-kham-vigor-health-chao-mung-quoc-te-nguoi-cao-tuoi-01-10_230.html 6 12
+http://m.thethaovanhoa.vn 6 6
+http://www.xaluan.com/modules.php 6 6
+http://www.healthcare.com.vn 4 4
+http://www.healthcare.com.vn/vi/anh-video/goc-thu-gian/chuyen-cuoi-y-khoa_63.html 3 5
+http://genk.vn/mo-hop-xiaomi-mi-mix-duy-nhat-tai-viet-nam-dep-den-kho-tin-gia-30-trieu-dong-20161106114658477.chn 3 3
+http://kienthuc.net.vn/sot-mang/nguoi-dan-ong-di-dep-le-vao-mua-xe-mercedes-va-cai-ket-777497.html 3 3
+http://www.phimmoi.net/phim/trum-ma-tuy-phan-1-3106/tap-5-69673.html 2 2
+http://video.daikynguyenvn.com/embed.php 2 2
+http://healthcare.com.vn/vi/gioi-thieu/bac-si/ 2 2
+http://www.phimmoi.net/phim/trum-ma-tuy-phan-1-3106/tap-3-69567.html 2 2
+http://dotnetsocial.cloudapp.net/GetDotnet 2 2
+http://video.vnexpress.net/tin-tuc/xa-hoi/giang-luoi-ca-linh-mua-lu-kiem-tien-trieu-moi-ngay-3494906.html 2 2
+http://www.healthcare.com.vn/vi/gioi-thieu/bac-si/ 2 4
+http://healthcare.com.vn/vi/lien-he/ 2 2
+http://m.blogtamsu.vn/wp-content/themes/news/ia/iaplayer_default.html 2 2
+http://healthcare.com.vn/vi/gioi-thieu/khoa-phong/ 2 2
+http://soha.vn/quan-su.htm 1 1
+http://m.kenh14.vn/bao-thy-cui-dau-nhan-loi-vi-khong-nhan-ra-giong-cua-quang-vinh-20161107020348068.chn 1 1
+http://dantri.com.vn/tu-van-phap-luat/thoi-han-su-dung-cmnd-la-bao-nhieu-nam-ke-tu-ngay-cap-1248475001.htm 1 1
+http://video.vnexpress.net/parser.html 1 1
+http://www.vatgia.com/raovat/13310/12923478/ma%CC%81y-ma%CC%81t-xa-chan-to%CC%81t-nha%CC%81t-ma%CC%81y-ma%CC%81t-xa-ba%CC%80n-chan-ba%CC%81p-chan-chi%CC%81nh-ha%CC%83ng-nha%CC%A3t.html 0 1
+http://camnanggiadinh.com.vn/tu-vi-be-tuoi-quy-ty-2013-n2021.html 1 1
+http://www.healthcare.com.vn/vi/tin-tuc/kham-ngoai-vien/kham-suc-khoe-tong-quat-cho-cbcnv-aeon-mall_91.html 1 2
+http://kenh14.vn 1 1
+http://media.zalo.me/detail/3128995559321116723 1 1
+http://hiepnguyen-se.com/Tin-Tuc/Ban-se-lam-gi-khi-phat-hien-buou-giap-nhan-_328.html 0 3
+http://video.vnexpress.net/tin-tuc/xa-hoi/ho-tu-than-sau-hang-chuc-met-sau-mua-lu-o-phu-yen-3495013.html 1 1
+http://1-99seo.com/try.php 1 1
+http://suckhoedoisong.vn/rach-sun-vien-khop-vai-n81488.html 1 1
+http://bestie.vn/2016/11/ngac-nhien-truoc-size-vong-mot-trai-nguoc-cua-chi-em-khap-nam-chau 1 1
+http://thanhnien.vn/doi-song/nguoi-vo-va-xe-bi-tat-axit-o-sai-gon-nguoi-la-mat-de-nghi-rut-don-762594.html 1 1
+http://dongtrunghathaomy.com.vn/dieu-tri-ung-thu-co-the-gay-vo-sinh.html 0 1
+http://video.ngoisao.net/tin-tuc/video/giai-tri/khanh-hien-cuoi-khong-ngot-trong-tiec-cuoi-co-tich-3495053.html 1 1
+http://tv.tuoitre.vn/iframetvo 1 1
+http://www.tuvikhoahoc.com/tuoi-mao/tu-vi-2017-dinh-mao-nu-mang/ 1 1
+http://stc.v3.news.zing.vn/videojs/v1.6_9/index.html 1 1
+http://coccoc.com/search 1 1
+http://adi.admicro.vn/adt/banners/nam2015/4043/min_html5/2016_10_31/scbank300x250.rar2016-10-31_03-54-15/scbank300x250.html 1 1
+http://www.yan.vn/goo-hye-sun-khong-ngai-tang-boc-ong-xa-ahn-jae-hyun-112092.html 1 1
+http://m.kenh14.vn/mi-bay-dau-chi-dep-la-no-con-ngon-va-bat-vi-lam-ay-chu-20161104013240189.chn 1 1
+http://dantri.com.vn 1 1
+http://kinhdoanh.vnexpress.net/tin-tuc/khoi-nghiep/se-van-hanh-2-trung-tam-ho-tro-startup-tai-ha-noi-va-tp-hcm-3494642.html 1 1
+http://www.healthcare.com.vn/vi/anh-video/goc-thu-gian/ 1 1
+http://tintuc.vn/the-gioi 1 1
+http://www.healthcare.com.vn/vi/tin-tuc/tin-tuc-vigor/phong-kham-vigor-health-to-chuc-sinh-nhat-nhan-vien-thang-9_229.html 1 2
+http://www.healthcare.com.vn/vi/anh-video/goc-thu-gian/van-de-y-khoa_13.html 1 1
+http://vangsjclagi.club/cong-dung-cua-khoai-lang/ 0 4
+http://kienthuc.net.vn/truyen-hinh-video/va-cham-voi-o-to-bo-bat-day-om-con-sau-cu-nga-777890.html 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+206 6 1678009
+302 7 0
+301 592 178313
+404 71 17996
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 15
+/apple-touch-icon.png 2 -
+/blog/xmlrpc.php 1 -
+/xmlrpc.php 1 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/resources/uploaded/Vigor/Files/Chuyen%20khoa/tre%20em%201.jpg 1 -
+/apple-touch-icon-152x152.png 1 -
+/js/jquery-1.8.3.min.js:2 1 -
+/wp-login.php 1 -
+/apple-touch-icon-152x152-precomposed.png 1 -
+/tin-tuc/tin-tuc-vigor////%22mailto:info@healthcare.com.vn///%22 1 -
+/multidata/ 40 http://vigorhealth.com.vn/tin-tuc/tin-tuc-suc-khoe-dinh-duong/phat-hien-benh-qua-doi-mat
+/vi/gioi-thieu/khoa-phong/doi-ngu-bac-si_19.html 1 -
+/apple-touch-icon-precomposed.png 2 -
+/robots.txt 16 -
+/apple-touch-icon-120x120.png 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 149
+115.78.94.28 4666 5327 75997001 20161107101827
+42.118.168.187 323 332 291914 20161107094457
+171.253.1.19 28 109 16485495 20161106220719
+27.74.130.243 23 87 7976823 20161107090706
+123.30.135.76 22 91 8859736 20161107101630
+116.100.84.253 21 78 8490886 20161107095128
+171.253.11.180 13 14 376222 20161107010645
+27.74.142.154 12 27 3696212 20161106233518
+171.233.137.236 11 66 6383981 20161106231816
+171.232.153.145 9 77 9613151 20161106221621
+113.161.75.252 9 72 6790577 20161107094330
+58.186.106.50 8 8 77637 20161106215346
+14.162.26.186 7 63 4772255 20161107085517
+14.161.10.30 7 63 4772372 20161107092854
+66.249.82.204 6 25 542569 20161107094735
+1.53.90.93 5 61 4738357 20161107081611
+66.249.82.202 5 21 3179261 20161107094734
+171.232.144.187 5 62 4869770 20161106220527
+42.112.225.87 4 61 4833370 20161106202328
+14.191.255.250 4 5 139105 20161107003254
+42.113.161.64 4 4 38818 20161106225548
+14.183.44.254 4 6 77415 20161107092626
+42.119.27.133 4 63 6758772 20161107000155
+116.102.124.8 4 4 0 20161107091926
+113.182.235.157 4 5 139393 20161107032441
+113.185.53.113 0 1 370699 
+113.175.94.25 0 1 227455 
+66.249.88.156 0 1 3574 
+203.113.152.3 2 2 19288 20161107082628
+116.98.223.230 0 1 209639 
+70.39.157.194 1 1 37681 20161107095214
+14.182.134.25 3 44 2637672 20161107101524
+113.185.57.199 2 2 33968 20161107094025
+115.79.210.230 2 2 34032 20161105113914
+115.72.82.120 3 6 80936 20161107090845
+113.185.57.187 1 1 33872 20161106192939
+116.109.241.190 1 2 37493 20161106222655
+113.185.57.28 0 1 3621 
+171.249.130.170 1 2 37489 20161106212116
+113.161.62.178 0 1 240574 
+27.2.32.202 1 1 33870 20161107044510
+37.140.189.231 0 1 553337 
+27.75.86.28 0 1 150860 
+14.184.143.246 2 4 43443 20161107100718
+42.112.235.246 2 57 4698385 20161106205103
+27.74.4.161 2 4 71847 20161106202635
+1.55.93.216 0 1 652219 
+67.60.123.57 1 2 37489 20161107064044
+27.67.17.136 0 1 846594 
+113.176.85.4 1 2 37491 20161106233148
+113.182.232.97 1 1 33872 20161106210558
+165.225.96.84 1 1 7596 20161107082028
+123.25.95.248 0 1 226029 
+66.102.6.30 2 2 34266 20161107093022
+171.231.9.22 3 59 4704215 20161107082547
+171.247.29.66 1 2 37491 20161106195324
+180.97.62.219 1 1 9698 20161107081025
+66.102.6.2 0 2 9475 
+118.71.106.76 0 2 195740 
+221.121.1.67 1 2 37491 20161107063725
+116.110.156.125 0 1 104985 
+27.3.128.112 2 34 1809941 20161106214959
+103.199.32.112 1 2 37493 20161106222937
+14.169.139.82 0 1 200214 
+66.249.88.154 1 1 34266 20161107093019
+113.174.202.33 2 42 2745789 20161107073200
+4.79.123.3 1 1 38104 20161107095503
+14.191.172.29 2 3 71365 20161107051223
+27.66.155.58 0 1 232651 
+14.183.138.201 1 2 37491 20161106194840
+113.185.57.193 0 2 9475 
+1.54.207.50 2 32 2810175 20161107001653
+42.114.83.141 1 1 33870 20161107063255
+27.3.129.4 1 2 37487 20161107001415
+27.77.2.253 1 2 37540 20161106222547
+14.183.181.171 2 3 71363 20161107062714
+220.231.72.3 3 3 41568 20161107082053
+171.233.105.171 2 57 4698387 20161107010630
+171.253.29.147 1 1 7572 20161107092610
+123.23.232.62 1 1 33870 20161106233319
+115.77.165.194 1 2 37493 20161106220349
+113.161.64.30 0 1 210126 
+113.174.7.154 1 1 33872 20161106215920
+113.161.70.82 1 1 10080 20161107084228
+14.173.188.4 1 2 37489 20161106220834
+14.188.0.179 2 42 2745799 20161106221649
+123.30.165.249 1 1 33868 20161106204439
+171.250.1.81 3 36 1815837 20161107091148
+14.183.75.66 0 1 3621 
+113.167.208.219 0 1 158386 
+171.248.127.232 2 2 46948 20161107075229
+42.114.19.180 1 1 34072 20161106192342
+116.100.169.51 2 49 3762542 20161106191342
+118.69.28.175 1 1 7571 20161106205756
+27.3.132.118 1 1 9185 20161106194009
+14.175.168.86 2 57 4698387 20161106192656
+180.24.197.76 1 2 37542 20161106201357
+27.71.213.208 1 2 37493 20161106235907
+27.2.32.22 2 3 71363 20161106192312
+66.249.88.155 1 2 5901 20161107093033
+177.133.230.213 1 1 9715 20161107055244
+118.70.113.55 0 1 264502 
+23.101.61.176 0 2 225686 
+115.78.235.98 3 50 3796463 20161107065420
+171.237.86.221 1 1 33872 20161106203215
+103.199.33.74 1 1 0 20161107091753
+210.245.33.95 2 49 3762539 20161106192043
+113.161.25.104 1 2 37542 20161107084845
+64.233.173.145 2 18 3004682 20161107090226
+27.66.170.117 2 34 1809990 20161107061651
+171.253.8.37 2 33 1806418 20161105112856
+171.246.212.25 1 1 33872 20161106202302
+1.55.193.119 0 4 1985844 
+64.233.173.144 1 17 311912 20161107090226
+115.75.227.101 1 2 37691 20161106193701
+42.114.23.231 0 1 227455 
+14.160.41.62 3 44 2967793 20161107092702
+171.224.91.108 0 1 141688 
+14.164.189.192 1 2 37491 20161106190936
+115.73.238.91 2 3 71361 20161106232016
+187.1.184.26 1 1 37266 20161106213524
+1.52.127.8 0 1 158386 
+64.233.173.146 1 17 486091 20161107071206
+42.112.159.73 1 2 37491 20161106205153
+27.74.2.163 1 1 33872 20161107074228
+113.161.207.163 0 1 227455 
+1.52.237.199 2 57 4698387 20161106211243
+113.161.220.238 1 2 37493 20161107050523
+27.72.46.55 0 1 354190 
+171.226.142.14 1 2 37489 20161107064330
+66.249.84.4 0 2 1367404 
+14.169.8.126 2 45 3524914 20161106204942
+8.37.232.50 1 2 37493 20161106193003
+66.249.82.200 2 18 295068 20161107093820
+27.75.150.225 1 1 34072 20161106203458
+171.246.124.50 1 2 37493 20161107071517
+27.70.57.107 0 1 141688 
+171.226.140.11 1 2 37744 20161106223405
+27.3.32.192 0 1 226029 
+42.119.90.88 2 4 43441 20161105114257
+113.184.139.230 1 2 37493 20161107040012
+42.119.135.27 1 2 37491 20161106213749
+171.253.3.16 1 1 33870 20161106211203
+27.75.227.56 1 2 37763 20161106224845
+1.52.34.17 2 37 2036625 20161106230327
+14.183.156.227 1 1 37372 20161107081907
+113.161.218.118 2 4 43445 20161107075824
+171.233.57.8 1 1 33872 20161107000416
+117.1.246.235 0 1 97870 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 3
+20161105 238 321 6434276 5
+20161106 142 984 90973119 58
+20161107 4963 6522 160630062 70
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 5
+0s-30s 105
+5mn-15mn 11
+2mn-5mn 5
+30s-2mn 5
+1h+ 1
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 114
+/lhc_web/index.php/site_admin/chat/syncadmininterface 2471 1629346 1 2
+/lhc_web/index.php/site_admin/chat/syncadmin/ 1340 135821 0 0
+/ 631 9325752 39 17
+/lhc_web/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true 328 11043066 70 82
+/lhc_web/index.php/chat/syncuser/504/4569/4126cdc8592f148952d3e786cb3bbd25d5566852/(mode)/widget 220 22660 0 0
+/lhc_web/index.php/chat/syncuser/504/4566/4126cdc8592f148952d3e786cb3bbd25d5566852/(mode)/widget 52 5384 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/4sxxqfw8oxxi6hkmbs 29 0 0 0
+/lhc_web/index.php/chat/checkchatstatus/504/4126cdc8592f148952d3e786cb3bbd25d5566852/(mode)/widget 26 4197 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/xizror5h2jhmpuqili6g 17 0 0 0
+/lhc_web/index.php/chat/syncuser/504/4567/4126cdc8592f148952d3e786cb3bbd25d5566852/(mode)/widget 12 1524 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/77gf2vfsrig3eqkwu9 12 0 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/srv7mk4mfukwzlw93kw 11 0 1 3
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/pqss5v3xu56xoroegx7 8 0 0 1
+/tin-tuc/tin-tuc-vigor/tre-em-co-can-kham-suc-khoe-tong-quat 8 94401 8 1
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/kvs2jp4aq5uhd7zfi7hl 7 0 0 1
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/ngmvx4buleupimpojjs 7 0 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/8qm1hb9uxaakkdd8jck 6 0 0 4
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/ar29rejrcbjni66nq10m 6 0 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/kblg000vkapdahgd9vk 5 0 0 0
+/lhc_web/index.php/site_admin/user/login 5 6783 0 0
+/lhc_web/index.php/site_admin/ 5 16316 0 0
+/lhc_web/design/defaulttheme/images/fonts/fontello.woff 4 125244 0 0
+/lhc_web/index.php/site_admin/chat/addmsgadmin/504 4 147 0 0
+/nhan-su-chu-luc-vigor 4 25271 0 0
+/gioi-thieu/gioi-thieu-chung 4 32880 2 0
+/lhc_web/index.php/site_admin/chat/adminchat/503 1 3736 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/-6/(count_page)/1/(vid)/txagsxrqxag3d0sl9gk7 1 0 1 1
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/atd1zlhdkyqo6bq3d5rw 1 0 0 0
+/lhc_web/index.php/site_admin/chat/adminchat/504 3 10582 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/d3nwyo3v4rauxifjtoos 1 0 0 1
+/tin-tuc/tin-tuc-vigor 1 8005 0 0
+/tin-tuc/tin-tuc-suc-khoe-dinh-duong/stress-la-gi-va-cach-xa-stress-ra-sao 1 10256 1 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/stp88vv6cxcw5xuqmzbh 1 0 0 0
+/lhc_web/index.php/site_admin/chat/adminchat/501 1 3566 0 0
+/thu-vien-anh 1 7269 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/-8/(count_page)/1/(vid)/l6cbn0gw50oy5nk85cpq 1 0 0 1
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/g11to8qivuwmpbwic57 1 0 0 1
+/tin-tuc/kham-ngoai-vien/phong-kham-vigor-health-duoc-chon-la-doi-tac-kham-suc-khoe-cho-900-cbcnv-cong-ty-cp-khoan-va-dich-vu-khoan-dau-khi-pv-drillng 3 24544 0 0
+/cam-nghi-khach-hang/anh-tran-phuong-linh-vietinbank 1 6147 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/em4g6m1t92tpnem8x5xt 1 0 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/xm2iixitn5ej1hc6jf 1 0 0 1
+/tin-tuc/tin-tuc-suc-khoe-dinh-duong/roi-loan-lipid-mau 2 18089 0 0
+/lhc_web/index.php/site_admin/chat/adminchat/503/(remember)/true 1 3737 0 0
+/lhc_web/index.php/site_admin/chat/adminchat/504/(remember)/true 1 3394 0 0
+/dich-vu/goi-kham-chuyen-sau/goi-kham-suc-khoe-chuyen-sau-danh-cho-nu-tien-hon-nhan 1 3064 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/ji6q661p67dmoldxzd7 1 0 0 1
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/988ssn5r70sx9u7vzi 1 0 0 0
+/lhc_web/index.php/site_admin/chat/adminchat/502/(remember)/true 1 3345 0 0
+/tin-tuc 1 8546 0 0
+/site-map 1 6346 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/57yrsgzqmv16gcl6762w 1 0 0 0
+/gioi-thieu/phap-ly-vigor-health 1 6310 0 0
+/dich-vu/kham-suc-khoe-doanh-nghiep/bao-lanh-vien-phi-doi-tac-lien-ket 1 6461 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/dtcwt1im83ux0anofm 1 0 0 0
+/gioi-thieu/co-so-vat-chat/trang-thiet-bi 1 6322 0 0
+/dich-vu/goi-kham-suc-khoe-chuyen-sau/goi-kham-suc-khoe-chuyen-sau-danh-cho-nu-da-ket-hon 2 14270 0 0
+/page-news.php 1 74 0 0
+/lhc_web/index.php/chat/syncuser/504/4567/4126cdc8592f148952d3e786cb3bbd25d5566852/(mode)/widget/(ot)/t 2 206 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/kfyp8zfimioanxn8z1pr 3 0 1 3
+/index.php 1 6156 0 0
+/tin-tuc/tin-tuc-suc-khoe-dinh-duong/phat-hien-benh-qua-doi-mat 1 8810 1 0
+/lhc_web/index.php/site_admin/chat/single/504 3 3934 0 0
+/dien-dan 2 14594 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/ez47t6b4x55dt6642922 1 0 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/p1l889s543f94gy6o8sa 1 0 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/13zpuojwwz5xun08hrux 1 0 0 1
+/lhc_web/index.php/chat/chatwidget/(leaveamessage)/true/(theme)/3/(vid)/atd1zlhdkyqo6bq3d5rw 1 2301 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/4lybwrjd8xsb4jqx37m2 1 0 0 1
+/lhc_web/index.php/site_admin/system/configuration 1 3857 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/89cgd3dy7ngbucnws0w 1 0 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/dhghdpw3as1n3t5nl2ti 1 0 0 1
+/dich-vu/goi-kham-chuyen-sau/goi-kham-suc-khoe-chuyen-sau-danh-cho-nu 1 3064 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/hxyg68yv5t84594iv1 1 0 0 0
+/lhc_web/index.php/site_admin/chat/operatortyping/504/false 3 66 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/5ce17b1d4seteo2snmy 1 0 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/xasjib5jrmpwat0ckhv4 2 0 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/vnqm0xy6k70nhcwpbd0 1 0 0 0
+/cam-nghi-khach-hang/1 1 7384 0 0
+/lhc_web/index.php/chat/syncuser/504/4568/4126cdc8592f148952d3e786cb3bbd25d5566852/(mode)/widget 2 376 0 0
+/lhc_web/index.php/site_admin/chat/operatortyping/504/true 3 66 0 0
+/tin-tuc/tin-tuc-suc-khoe-dinh-duong/hoi-chung-ruot-kich-thich 2 17098 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/i5yru2mlwt602f0geng8 1 0 0 1
+/gioi-thieu/index.php 1 3400 0 0
+/video 1 8291 0 0
+/lhc_web/index.php/chat/userclosechat/504/4126cdc8592f148952d3e786cb3bbd25d5566852 1 50 0 1
+/dich-vu/the-uu-dai 1 7390 0 0
+/lhc_web/index.php/site_admin/system/timezone 1 8209 0 0
+/dich-vu/kham-suc-khoe-doanh-nghiep/dich-vu-kham 2 14360 1 0
+/gioi-thieu/bo-may-nhan-su 1 6229 0 0
+/lhc_web/index.php/site_admin/chat/single/503 1 1298 0 0
+/dich-vu/dich-vu-y-te 4 32482 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/fqcpscdmc3v316wolln8 3 0 0 1
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/i7lhif4fdh8juumtkqo4 2 0 0 1
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/fovtysc62hxijvvv5i8 1 0 0 1
+/tin-tuc/tin-tuc-suc-khoe-dinh-duong/nen-kham-chua-benh-o-dau 1 8520 1 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/85xdlw6sfm650n30pgxo 1 0 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/nyl1rexf8wldoqn76r3j 1 0 0 1
+/lhc_web/index.php/site_admin/chat/single/501 1 1284 0 0
+/lhc_web/index.php/captcha/captchastring/form/1478485392 1 53 0 0
+/lhc_web/index.php/chat/chatwidgetchat/504/4126cdc8592f148952d3e786cb3bbd25d5566852/(cstarted)/online_chat_started_cb 1 2636 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/ufks0x3ic9vwdmgnq5yp 1 0 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/5ges3ac80q864slaw4sv 1 0 0 1
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/rgirp9nzyqvtwy4kqlqw 1 0 0 0
+/dich-vu/goi-kham-suc-khoe-chuyen-sau/goi-kham-suc-khoe-chuyen-sau-danh-cho-nguoi-cao-tuoi 4 30300 4 2
+/dich-vu/goi-kham-suc-khoe-chuyen-sau/goi-kham-suc-khoe-chuyen-sau-danh-cho-nu-chua-ket-hon 2 14676 0 0
+/lien-he 3 22793 2 1
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/qb94e6w0bn6ptoxdeif 1 0 0 0
+/lhc_web/index.php/chat/syncuser/504/4566/4126cdc8592f148952d3e786cb3bbd25d5566852/(mode)/widget/(ot)/t 1 264 0 0
+/cam-nghi-khach-hang 1 6875 0 0
+/dich-vu/goi-kham-chuyen-sau/goi-kham-suc-khoe-chuyen-sau-danh-cho-nam 1 3086 0 0
+/dich-vu/goi-kham-suc-khoe-chuyen-sau/index.php 1 6085 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/5qd4xxzrdr5upynwfi 1 0 0 0
+/khach-hang-vigor 1 6134 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/mfodwrnpwjpfc1i0an 1 0 0 0
+END_SIDER

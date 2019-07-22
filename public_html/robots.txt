@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /config/
+Disallow: /lhc_web/
+Disallow: /backup/
+Disallow: /mail/

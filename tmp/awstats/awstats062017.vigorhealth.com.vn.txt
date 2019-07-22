@@ -1,0 +1,486 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201706 will be lost/reset.
+# Last config file used to build this data file was /home/vigorhea/tmp/awstats/awstats.vigorhealth.com.vn.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2686                
+POS_VISITOR 10903               
+POS_DAY 13354               
+POS_DOMAIN 3359                
+POS_LOGIN 3749                
+POS_ROBOT 3904                
+POS_WORMS 4445                
+POS_EMAILSENDER 4576                
+POS_EMAILRECEIVER 4719                
+POS_SESSION 13467               
+POS_SIDER 13673               
+POS_FILETYPES 4854                
+POS_DOWNLOADS 5077                
+POS_OS 5125                
+POS_BROWSER 5357                
+POS_SCREENSIZE 5944                
+POS_UNKNOWNREFERER 6018                
+POS_UNKNOWNREFERERBROWSER 6568                
+POS_ORIGIN 7655                
+POS_SEREFERRALS 7796                
+POS_PAGEREFS 7964                
+POS_SEARCHWORDS 9434                
+POS_KEYWORDS 9586                
+POS_MISC 2350                
+POS_ERRORS 9645                
+POS_CLUSTER 3605                
+POS_SIDER_404 9764                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180502191011 1 0 9301671201495
+FirstTime 20170626192453
+LastTime 20170627075428
+LastUpdate 20180503112758 1 0 0 0 0
+TotalVisits 49                  
+TotalUnique 43                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 67                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 32 169 58828035 13 30 57885
+1 11 15 528926 6 15 31345
+2 6 9 900225 15 28 67465
+3 1 1 10168 5 11 20076
+4 0 2 140203 9 17 249612
+5 7 119 8267789 12 38 8805536
+6 21 50 4164241 33 128 17061450
+7 154 352 23226027 8391 8405 5358022
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 15 89 20571717 14 26 82064
+20 24 139 38220343 15 34 2604468
+21 9 69 3679310 23 33 494621
+22 22 206 13333090 18 52 3029697
+23 14 19 997663 11 42 1377658
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+vn 265 1063 155291202
+us 41 59 11774377
+ru 3 72 4126682
+jp 2 3 64212
+in 2 32 1011605
+sg 1 1 10168
+ar 1 1 38737
+de 1 2 37562
+my 0 2 232514
+br 0 1 24492
+kr 0 1 24764
+cl 0 2 231422
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+google[_+\s]web[_+\s]preview 91 16710623 20170627064435 0
+unknown 78 6864 20170627075156 78
+bot[\s_+:,\.\;\/\\-] 68 1047872 20170627074441 4
+[\s_+:,\.\;\/\\-]bot 55 11419428 20170627065320 0
+robot 26 1170871 20170627054913 2
+googlebot 21 181352 20170627075621 0
+googlebot\-image 11 195739 20170627073637 0
+php 10 2666133 20170627055505 0
+spider 2 12753 20170627063452 0
+bingpreview 1 172877 20170627074758 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+png 416 18046154 0 0
+js 110 1232073 0 0
+Unknown 131 3188122 0 0
+css 47 286810 0 0
+jpg 348 144735001 0 0
+gif 2 90904 0 0
+php 162 4854072 0 0
+html 23 434601 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+Unknown 141 132
+win16 1 1
+winxp 21 13
+win7 202 41
+winnt 163 9
+linuxandroid 105 20
+ios_ipad 79 11
+win8 69 2
+winunknown 20 20
+ios_iphone 198 28
+win98 9 9
+win8.1 231 30
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 28
+safari8.0 42 3
+chrome50.0.2661.75 1 1
+safari10.0 168 26
+chrome59.0.3071.115 59 2
+chrome57.4.2987.160 58 3
+chrome33.0.0.0 1 0
+chrome51.0.2704.106 49 2
+firefox2.0.0.9 1 1
+chrome58.0.3029.83 17 10
+chrome58.4.3029.126 1 0
+mozilla 13 13
+msie6.0 10 10
+Unknown 160 149
+safari 4 1
+firefox54.0 38 18
+chrome28.0.1500.72 3 1
+iphone 3 3
+safari9.0 58 6
+chrome30.0.0.0 32 2
+firefox37.0 2 2
+opera36.0.2130.32 3 3
+opera45.0.2552.898 1 0
+chrome57.0.2987.110 1 0
+android 6 6
+firefox11.0 8 0
+msie8.0 2 2
+chrome59.0.3071.109 2 1
+chrome58.0.3029.110 496 51
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+Avast 20170627075224
+SecureLine 20170627074711
+Coccoc_Update/2.5.15.25;winhttp 20170627073520
+Google_Update/1.3.33.5;winhttp 20170627075308
+Avast_SimpleHttp/3.0 20170627065239
+CocCoc_Update/1.3.39.21;winhttp 20170627071430
+SkypeSetupLight 20170627075428
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20170626200927
+ltx71_-_(http://ltx71.com/) 20170627070208
+Mozilla/5.0_(compatible;_ips-agent) 20170626233423
+Avast_Emergency_Update_Agent 20170627071922
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 17
+SecureLine 20170627074711
+Google_Update/1.3.33.5;winhttp 20170627075308
+Coccoc_Update/2.5.15.25;winhttp 20170627073520
+ltx71_-_(http://ltx71.com/) 20170627070208
+SkypeSetupLight 20170627075428
+Avast_Emergency_Update_Agent 20170627071922
+com.google.GoogleMobile/29.0.0_iPad/10.3.2_hw/iPad3_4 20170626205919
+@AUVI@1.3;AntiVir-NGUpd/15.0.26.45_(PERS;_WKS;_EN;_AVE_8.3.44.88;_VDF_8.14.13.106;_Windows_10_Pro;_;_United_States;_48542efc19b21da308156d2850573cea225b2c52;_0000149996-AVHOE-0000001;_US;_BUILD_15.0.26.48;_0;_1;_1;_firefox;_1;_9c4fa7d6c3fb45d3bb2b144b24f2e62981c249b4;_6) 20170627073107
+com.google.GoogleMobile/29.0.0_iPad/10.3.2_hw/iPad4_4 20170627064412
+Microsoft_BITS/7.5 20170627063240
+Microsoft_BITS/7.8 20170627071403
+Avast 20170627075224
+Merriam-Webster%20Dictionary/410.3_CFNetwork/811.5.4_Darwin/16.6.0 20170626232823
+Avast_SimpleHttp/3.0 20170627065239
+CocCoc_Update/1.3.39.21;winhttp 20170627071430
+Microsoft-Delivery-Optimization/10.0 20170627072547
+Windows-Update-Agent 20170627063240
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 180 204
+From1 1 1
+From2 14 30
+From3 38 52
+From4 83 952
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+yandex 2 2
+google 12 28
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 21
+http://tracnghiem.vigorhealth.local 8 9
+http://www.healthcare.com.vn/vi/tin-tuc/suc-khoe-va-dinh-duong/dau-co-tay-va-hoi-chung-viem-gan-de-quervain_178.html 6 12
+http://www.healthcare.com.vn/vi/tin-tuc/suc-khoe-va-dinh-duong/stress-la-gi-va-cach-xa-stress-ra-sao_190.html 3 5
+http://vnexpress.net 3 3
+http://tamtrang.mekash.com/bestbigsale/bestbigsale.html 2 2
+http://www.phapluatso.net/tin-tuc/tin-nong/ 2 2
+http://healthcare.com.vn 2 2
+http://m.baomoi.com/khong-the-la-vo-chong-dung-bao-gio-chon-kiep-tinh-nhan/c/22618397.epi 1 1
+http://tracnghiem.vigorhealth.local/vi/anh-video/goc-thu-gian/ 1 1
+http://kenh14.vn 1 1
+http://html.polyad.net/ExtendBanner/143137.htm 1 1
+http://video.daikynguyenvn.com/embed.php 1 1
+http://www.healthcare.com.vn/vi/anh-video/video/phong-kham-da-khoa-vigor-health-quan-1_29.html 1 2
+http://m.baomoi.com 1 1
+http://tamtrang.mekash.com/iaad/mgid.html 1 1
+http://coccoc.com/webhp 1 1
+http://www.healthcare.com.vn/vi/anh-video/goc-thu-gian/chuyen-cuoi-y-khoa_63.html 1 2
+http://www.healthcare.com.vn/vi/tin-tuc/suc-khoe-va-dinh-duong/xuat-huyet-am-dao_234.html 1 2
+http://hp.myway.com/fromdoctopdf/ttab02chr/index.html 1 1
+http://bariavungtauworks.com/impac-group-tuyen-ky-su-co-khi-cho-du-an-dau-khi.t2502.html 0 1
+http://dongtrunghathaomy.com.vn/dieu-tri-ung-thu-co-the-gay-vo-sinh.html 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 60 20551
+206 4 549522
+301 8417 5085314
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 26
+/F702F863CA3DEB06D56688E6901B4705.txt 1 -
+/sample.php 1 vigorhealth.com.vn
+/wp-cods.php 1 vigorhealth.com.vn
+/blog/robots.txt 3 -
+/yt2.php 1 vigorhealth.com.vn
+/60926B4D911C2F551BFFA99D2673A155.txt 1 -
+/multidata/ 29 http://vigorhealth.com.vn/index.php
+/rnnvhs.php 1 vigorhealth.com.vn
+/yt.php 1 vigorhealth.com.vn
+/images/yt.php 1 vigorhealth.com.vn
+/ytt.php 1 vigorhealth.com.vn
+/wp-inde.php 1 vigorhealth.com.vn
+/images/temp.php 1 vigorhealth.com.vn
+/modules/modules/temp.php 1 vigorhealth.com.vn
+/joomla/administrator/index.php 2 -
+/administrator/index.php 1 -
+/joomla/robots.txt 2 -
+/sfn.php 1 vigorhealth.com.vn
+/03EAEF02ADFA40F9D3A3A79CC045A0E4.txt 1 -
+/blog/ 1 -
+/blog/administrator/index.php 2 -
+/vi/tu-van-suc-khoe/cau-hoi-khach-hang_221.html 2 -
+/wp/ 1 -
+/xmlrpc.php 1 -
+/temp.php 1 vigorhealth.com.vn
+/wordpress/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 67
+115.78.94.28 179 264 27580454 20170627075428
+116.109.5.198 17 92 39559796 20170627004209
+35.184.189.105 15 24 2527744 20170627064646
+14.175.180.183 11 82 5020789 20170626220556
+173.208.249.117 10 10 332840 20170627015206
+69.58.178.59 10 10 318631 20170626233423
+171.232.101.187 10 62 17407178 20170626204126
+14.169.218.159 8 71 18828985 20170627010542
+183.81.8.1 7 73 18788720 20170626195834
+115.165.167.220 4 54 3549174 20170626204411
+50.21.186.47 3 3 116157 20170627025342
+171.232.83.156 3 25 558076 20170627065013
+128.72.230.132 2 69 3897371 20170627073342
+171.249.110.169 2 57 2971181 20170626214012
+103.199.32.217 2 32 1011605 20170626221053
+27.74.150.24 2 49 2035340 20170627071140
+14.191.105.78 2 43 2897051 20170626223040
+1.55.41.84 2 38 2669196 20170626222025
+123.21.21.102 2 57 2971192 20170627054249
+27.78.191.199 2 57 2971185 20170627053701
+116.102.23.91 1 2 37542 20170627063940
+95.29.111.14 1 1 9677 20170627052237
+103.252.202.166 1 1 10168 20170627034111
+1.52.35.197 1 2 37542 20170627020825
+113.172.23.31 1 1 33870 20170626223425
+1.53.62.120 0 1 74451 
+83.149.46.235 0 1 85067 
+201.241.174.252 0 1 115711 
+101.99.57.86 0 1 232651 
+113.168.86.90 0 1 158386 
+14.228.135.123 1 2 37542 20170626212141
+180.93.173.242 1 1 10170 20170626232823
+58.187.45.175 0 1 990780 
+66.249.82.200 1 7 6924194 20170626212437
+42.118.13.121 0 2 2296774 
+203.113.152.6 1 1 10168 20170627051016
+1.52.35.202 1 2 37542 20170626223819
+42.99.164.99 1 2 37542 20170627070234
+150.70.188.179 1 1 26670 20170626221110
+95.153.132.53 0 1 134567 
+113.179.171.99 0 1 232651 
+87.133.83.244 1 2 37562 20170626192546
+42.113.160.198 1 2 37560 20170626194014
+203.205.38.98 1 2 37540 20170626205052
+220.87.62.131 0 1 24764 
+66.249.82.204 0 2 1414603 
+170.210.156.91 1 1 38737 20170627063522
+58.187.171.210 0 1 240543 
+181.226.100.86 0 1 115711 
+113.210.63.91 0 2 232514 
+14.184.177.82 0 1 309361 
+113.168.157.15 0 1 104787 
+203.113.152.3 1 1 8793 20170627051329
+72.14.199.99 1 1 10168 20170626200927
+171.234.215.33 0 1 1005949 
+171.253.29.16 0 1 232651 
+171.248.149.220 1 1 33868 20170626192453
+75.149.221.170 1 1 38719 20170627011638
+14.169.146.103 0 1 152348 
+64.233.173.33 0 1 91321 
+27.74.247.185 0 1 28490 
+1.52.202.43 1 2 37542 20170627004842
+42.118.213.31 1 2 37562 20170627061536
+116.97.227.91 0 1 846594 
+201.41.76.225 0 1 24492 
+27.72.132.220 1 2 37540 20170626215601
+118.70.171.133 0 1 141688 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20170626 84 522 76802123 25
+20170627 232 717 96065614 24
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 4
+2mn-5mn 1
+30mn-1h 2
+15mn-30mn 1
+0s-30s 36
+30s-2mn 1
+1h+ 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 43
+/index.php 160 4849862 6 6
+/lhc_web/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true 68 2288729 15 29
+/ 23 434601 18 5
+/tuyendung 4 106762 0 0
+/lien-he 4 87914 2 1
+/nhan-su-chu-luc-vigor 3 20241 0 0
+/gioi-thieu/gioi-thieu-chung 3 61420 0 1
+/dien-dan 3 22581 0 0
+/dich-vu/dich-vu-y-te 3 44229 0 0
+/video 3 66443 0 0
+/dich-vu/kham-suc-khoe-doanh-nghiep/quy-trinh-kham 2 13416 0 0
+/dich-vu/kham-suc-khoe-doanh-nghiep/dich-vu-kham 2 14793 0 0
+/gioi-thieu/phap-ly-vigor-health 2 30241 0 0
+/thu-vien-anh 2 52955 0 1
+/tin-tuc/tin-tuc-vigor/vigor-health-trien-khai-ap-dung-thanh-toan-bao-hiem-y-te 2 18470 2 2
+/site-map 2 32909 0 0
+/tieng-viet 2 77474 0 0
+/english 2 75043 0 0
+/gioi-thieu/co-so-vat-chat/trang-thiet-bi 2 13648 1 0
+/gioi-thieu/bo-may-nhan-su 1 6554 0 0
+/lhc_web/index.php/chat/chatwidgetclosed/(vid)/bl937dkzeqjg9jfzia8g 1 0 0 0
+/tin-tuc/tin-tuc-suc-khoe-dinh-duong/nhung-dieu-can-biet-ve-phi-dai-tien-liet-tuyen 1 9229 1 0
+/tin-tuc/tin-tuc-suc-khoe-dinh-duong/dam-va-axit-amin-nhung-khoi-gach-quan-trong-bac-nhat-cua-co-the 1 10443 0 1
+/lhc_web/index.php/chat/chatwidget/(leaveamessage)/true/(theme)/3/(vid)/bl937dkzeqjg9jfzia8g 1 1771 0 0
+/tin-tuc/tin-tuc-vigor/vigor-health-chao-mung-ngay-quoc-te-phu-nu-08-03 1 8760 0 0
+/dich-vu/goi-kham-chuyen-sau/goi-kham-suc-khoe-chuyen-sau-danh-cho-nam 1 3297 0 0
+/tin-tuc/tin-tuc-suc-khoe-dinh-duong/cham-soc-nuou-rang-de-ngua-7-benh-tat 1 9360 0 0
+/tin-tuc/tin-tuc-vigor/chuong-trinh-mung-xuan-2015-nu-cuoi-vui-xuan 1 8121 0 1
+/tin-tuc/hoat-dong-xa-hoi-cua-vigor/phong-kham-vigor-health-tai-tro-chuong-trinh-vui-hoi-trang-ram-2016 1 7678 1 0
+/lhc_web/index.php/chat/chatwidget/(leaveamessage)/true/(theme)/3/(vid)/ef41cdkjvh1isa9qj7x 1 1742 0 0
+/dich-vu/goi-kham-suc-khoe-chuyen-sau/goi-kham-suc-khoe-chuyen-sau-danh-cho-nguoi-cao-tuoi 1 7930 1 0
+/tin-tuc/tin-tuc-suc-khoe-dinh-duong/hoi-chung-buong-trung-da-nang 1 8890 0 0
+/tin-tuc/tin-tuc-suc-khoe-dinh-duong/benh-tai-ngoai-can-luu-y 1 10455 1 0
+/video-load.php 1 842 0 0
+/dien-dan/index.php 1 3368 0 1
+/tin-tuc/12 1 8865 0 0
+/gioi-thieu/co-so-vat-chat/cac-khoa-phong 1 6613 0 0
+/tin-tuc/kham-ngoai-vien/chuong-trinh-kham-tong-quat-cho-86-cbcnv-truong-quoc-te-mua-xuan-wellspring-saigon-international-viet-nam-tai-tp-hcm 1 8345 1 0
+/tin-tuc/kham-ngoai-vien/chuong-trinh-kham-tong-quat-cho-hon-400-cb-cnv-cong-ty-cp-dich-vu-xuat-nhap-khau-nong-lam-san-va-phan-bon-ba-ria-baria-serece 1 8031 0 1
+/tin-tuc/tin-tuc-vigor 1 8761 0 0
+/tin-tuc/tin-tuc-suc-khoe-dinh-duong/thuc-pham-phong-ngua-cam-cum 1 8745 0 0
+/tin-tuc/tin-tuc-vigor/ban-giam-doc-phong-kham-da-khoa-vigor-health-nhan-hoa-va-qua-chuc-mung-ngay-doanh-nhan-viet-nam-tu-cac-doi-tac 1 8217 0 0
+/tin-tuc/9 1 9047 0 0
+END_SIDER

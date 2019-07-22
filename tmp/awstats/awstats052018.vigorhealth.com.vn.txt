@@ -1,0 +1,655 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201805 will be lost/reset.
+# Last config file used to build this data file was /home/vigorhea/tmp/awstats/awstats.vigorhealth.com.vn.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2697                
+POS_VISITOR 18706               
+POS_DAY 24239               
+POS_DOMAIN 3472                
+POS_LOGIN 3840                
+POS_ROBOT 3995                
+POS_WORMS 4557                
+POS_EMAILSENDER 4688                
+POS_EMAILRECEIVER 4831                
+POS_SESSION 24356               
+POS_SIDER 24562               
+POS_FILETYPES 4966                
+POS_DOWNLOADS 5197                
+POS_OS 5245                
+POS_BROWSER 5495                
+POS_SCREENSIZE 6678                
+POS_UNKNOWNREFERER 6752                
+POS_UNKNOWNREFERERBROWSER 7368                
+POS_ORIGIN 8096                
+POS_SEREFERRALS 8244                
+POS_PAGEREFS 8431                
+POS_SEARCHWORDS 17521               
+POS_KEYWORDS 17673               
+POS_MISC 2361                
+POS_ERRORS 17732               
+POS_CLUSTER 3696                
+POS_SIDER_404 17846               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180503112941 12137 2581433 18409629729693
+FirstTime 20180502191011
+LastTime 20180503112941
+LastUpdate 20180503112942 0 0 0 0 0
+TotalVisits 106                 
+TotalUnique 90                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 107                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 2 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 22 123 19934838 22 28 566405
+1 210 212 1055463 207 230 30454
+2 8 18 1059771 9 23 87686
+3 7 10 435184 13 25 2903928
+4 9 62 2652771 15 24 868422
+5 26 92 28876270 15 31 1029249
+6 33 79 3316425 31 91 10941195
+7 797 946 12807679 875 881 2301513
+8 1891 2383 39408271 912 929 2055416
+9 1292 1752 35552098 94 119 1208636
+10 1292 1814 32413194 170 216 2191335
+11 643 897 37456959 78 109 898246
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 25 118 7112597 9 14 171903
+20 35 115 3053877 49 84 1632876
+21 54 140 5601891 41 49 219612
+22 31 315 56257503 16 65 772739
+23 13 91 3324366 19 52 1281514
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+vn 6302 8611 256730244
+us 54 381 22458064
+in 16 90 6245144
+ru 5 20 2323629
+jp 3 3 32510
+sg 3 3 79273
+ng 2 55 2359653
+ca 1 1 41871
+fr 1 2 37538
+cl 1 1 11231
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+bot[\s_+:,\.\;\/\\-] 105 9153786 20180503105616 13
+[\s_+:,\.\;\/\\-]bot 54 2459903 20180503111111 0
+php 37 10635795 20180503064440 0
+googlebot 37 314558 20180503112527 1
+curl 34 1423633 20180503111554 0
+robot 28 2325534 20180503105807 1
+no_user_agent 22 837528 20180503072907 1
+bingpreview 19 1217644 20180503054552 0
+googlebot\-image 7 103771 20180503110926 0
+ia_archiver 5 84193 20180503081339 2
+spider 1 7735 20180503003130 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+png 1342 40919265 0 0
+php 2231 22002728 0 0
+js 428 3774712 0 0
+html 157 4823028 0 0
+css 179 911549 0 0
+jpg 830 210493871 0 0
+woff 2 41748 0 0
+Unknown 3998 7352256 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+winxp 69 9
+winunknown 1646 1646
+ios_iphone 873 174
+macosx 4 2
+Unknown 346 344
+java 26 26
+ios_ipad 1 1
+win7 4844 3980
+win8.1 201 17
+linux 1 1
+linuxandroid 600 134
+winnt 555 53
+unix 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 54
+chrome62.0.3202.94 1 1
+safari7.0 45 1
+chrome51.0.2704.81 4 2
+msie11.0 69 6
+chrome38.0.2125.102 9 9
+android 90 87
+chrome49.0.2623.75 1 1
+mozilla 98 98
+chrome46.0.2490.76 45 1
+chrome57.4.2987.160 128 16
+chrome66.0.3359.126 338 68
+chrome60.4.3112.130 1 1
+chrome63.0.3239.111 1 1
+chrome64.0.3282.119 3 3
+chrome62.0.3202.84 32 2
+safari9.0 33 4
+chrome66.0.3359.106 83 15
+chrome51.0.2704.103 1 1
+chrome52.0.2743.116 55 2
+chrome57.0.2987.108 4 2
+chrome60.4.3112.134 1 0
+safari10.0 211 28
+firefox37.0 6 6
+chrome62.4.3202.190 1 0
+Unknown 1853 1853
+chrome65.0.3325.109 6 5
+firefox59.0 2494 2171
+chrome65.0.3325.181 151 41
+firefox52.0 1 0
+netscape5.0 1 1
+chrome51.0.2704.106 1 0
+safari11.0 267 76
+firefox57.0 2 2
+firefox53.0 2 2
+chrome62.4.3202.194 127 12
+chrome59.0.3071.115 2 2
+chrome49.0.2623.112 64 9
+iphone 111 15
+firefox33.1 1 1
+chrome62.4.3202.126 55 11
+chrome58.0.3029.110 76 13
+chrome56.0.2924.87 49 3
+chrome66.0.3359.139 2346 1719
+chrome43.0.2357.93 2 1
+chrome63.0.3239.132 1 0
+safari 205 50
+msie8.0 68 33
+safari8.0 2 1
+chrome66.0.3359.117 8 4
+firefox50.0 2 2
+samsung 3 3
+firefox11.0 4 0
+chrome13.0.782.14 1 1
+chrome61.0.3163.100 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 14
+Google_Update/1.4.136.333;winhttp 20180503111542
+avast!_Emergency_Update_Agent 20180503083502
+Google_Update/1.3.33.7;winhttp 20180503081609
+Android 20180503093007
+Python-urllib/2.6 20180502231649
+okhttp/3.8.1 20180503093105
+TokenManager/2.1 20180503081214
+ProductAgentWin 20180503080129
+Avast_SimpleHttp/3.0 20180503083211
+Avast_Emergency_Update_Agent 20180503112821
+ARM_WinINet_Downloader 20180503112541
+AndroidDownloadManager 20180503032104
+XiaoYing/733_CFNetwork/897.15_Darwin/17.5.0 20180503092329
+SecureLine 20180503111257
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 16
+Avast_SimpleHttp/3.0 20180503083211
+ARM_WinINet_Downloader 20180503112541
+Google_Update/1.4.136.333;winhttp 20180503111542
+TokenManager/2.1 20180503081214
+okhttp/3.8.1 20180503093105
+Microsoft_BITS/7.5 20180503112540
+Apache-HttpClient/UNAVAILABLE_(java_1.4) 20180503112323
+Windows-Update-Agent 20180503081014
+Avast_Emergency_Update_Agent 20180503112821
+ProductAgentWin 20180503080129
+SecureLine 20180503111257
+XiaoYing/733_CFNetwork/897.15_Darwin/17.5.0 20180503092329
+avast!_Emergency_Update_Agent 20180503083502
+Google_Update/1.3.33.7;winhttp 20180503081609
+Microsoft-Delivery-Optimization/10.0 20180503103202
+Python-urllib/2.6 20180502231649
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 2154 2165
+From1 1 1
+From2 62 93
+From3 246 282
+From4 3925 6626
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+yandex 1 2
+google 38 68
+msn 22 22
+bing 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 99
+http://kenh14.vn 17 17
+http://hiu.vn 13 13
+http://phimden.net/04/2018/nua-dem-sang-vung-trom-voi-vo-cua-thang-ban/ 11 11
+http://acdn.adnxs.com/ib/static/usersync/v4/async_usersync.html 10 10
+http://phimden.net/04/2018/em-chong-ga-dit-chi-dau/ 9 9
+http://bilutv.com/xem-phim/chi-dep-mua-do-an-cho-toi-something-in-the-rain-2018-tap-10-6666_e79054.html 9 9
+http://www.healthcare.com.vn/vi/tin-tuc/suc-khoe-va-dinh-duong/dau-co-tay-va-hoi-chung-viem-gan-de-quervain_178.html 8 15
+http://www.healthcare.com.vn/vi/chuyen-khoa/xet-nghiem/ 6 6
+http://www.healthcare.com.vn/vi/tin-tuc/suc-khoe-va-dinh-duong/soi-tuoi-huyet-trang_181.html 6 12
+http://m.xemvtv.net/xem-phim/tu-bo-em-giu-chat-em-tap-1/ZO6I5W.html 5 5
+http://www.healthcare.com.vn/vi/tin-tuc/suc-khoe-va-dinh-duong/cac-thuc-pham-can-thiet-cho-tuyen-giap_246.html 5 10
+http://bilutv.com/xem-phim/phim-tu-bo-em-giu-chat-em-stay-with-me-2016-1208 5 5
+http://dantri.com.vn 5 5
+http://www.healthcare.com.vn 4 4
+http://www.healthcare.com.vn/vi/tin-tuc/hoat-dong-xa-hoi/ 4 6
+http://phimden.net/03/2018/ke-dam-dang-vung-trom-voi-con-chong/ 4 4
+http://www.healthcare.com.vn/vi/lien-he/ 4 4
+http://phimden.net/03/2017/xuat-tinh-vao-lon-chi-dau-dam-dang-hang-dep/ 4 4
+http://www.healthcare.com.vn/vi/tin-tuc/suc-khoe-va-dinh-duong/vi-sao-phai-tam-soat-ung-thu-co-tu-cung_110.html 4 6
+http://www.healthcare.com.vn/vi/tu-van-suc-khoe/ 4 4
+http://www.viettinhanh.com.vn/vi/index.html 3 3
+http://www.healthcare.com.vn/vi/tin-tuc/suc-khoe-va-dinh-duong/stress-la-gi-va-cach-xa-stress-ra-sao_190.html 3 6
+http://www.healthcare.com.vn/vi/tin-tuc/suc-khoe-va-dinh-duong/tam-soat-xo-vua-mach-mau-rat-quan-trong_292.html 3 6
+http://m.soha.vn 3 3
+http://tintuconline.com.vn 2 2
+http://kenh14.vn/xinh-nhu-bup-be-va-co-nu-cuoi-tuoi-roi-co-ban-sinh-nam-1998-nay-dang-cuc-hot-tren-instagram-viet-nam-20180501223924893.chn 1 1
+http://kenh14.vn/nguyet-chi-gioi-tha-thinh-va-da-bo-thoi-tra-cave-moi-la-nhan-vat-gay-nao-loan-xom-tro-trong-phia-truoc-la-bau-troi-20180502111737658.chn 2 2
+http://www.healthcare.com.vn/vi/tin-tuc/suc-khoe-va-dinh-duong/ban-biet-gi-ve-soi-tui-mat_257.html 1 2
+http://www.healthcare.com.vn/vi/tin-tuc/tin-tuc-vigor/chuong-trinh-khuyen-mai-cac-goi-cham-soc-da-tai-vigor-health_300.html 1 2
+http://kenh14.vn/man-trinh-dien-hoan-doi-gioi-tinh-huyen-thoai-ma-bat-cu-kpop-fan-gao-coi-nao-cung-khong-the-quen-20180502233111205.chn 2 2
+http://kenh14.vn/nu-chinh-trong-tvc-gay-sot-mxh-khong-ngai-khi-bi-goi-la-hotgirl-hoi-nach-20180502223231768.chn 1 1
+http://www.cuasotinhyeu.vn/kien-thuc/xet-nghiem/phuong-phap-xet-nghiem-chan-doan-hpv-40283.html 1 1
+http://vtown.vn/company/konoike-transportation.html 1 1
+http://kenh14.vn/quang-hai-duc-chinh-day-nam-tinh-khi-dien-suit-nhung-den-doan-van-hau-moi-la-tuyet-pham-20180502193159299.chn 1 1
+http://dantri.com.vn/xa-hoi/vu-chan-trau-bo-phai-dong-phi-dong-co-kiem-diem-trach-nhiem-can-bo-20180502230411421.htm 1 1
+http://kenh14.vn/nghe-noi-son-tung-m-tp-lai-sang-han-quoc-quay-mv-quy-mo-dau-tu-han-3-ti-dong-va-con-gi-nua-20180430032922971.chn 1 1
+http://www.healthcare.com.vn/vi/tin-tuc/suc-khoe-va-dinh-duong/roi-loan-lipid-mau_233.html 2 4
+http://kenh14.vn/thoi-diem-nay-3-nam-truoc-co-toi-2-bai-hat-cua-nam-cung-ra-doi-20180502170157064.chn 1 1
+http://www.thehinhonline.com.vn/qa/chitiet/4391_khac-phuc-co-vai-lech 2 2
+http://s.amazon-adsystem.com/v3/pr 1 1
+http://kenh14.vn/showbiz-han-chan-dong-khi-dispatch-tung-bang-chung-bae-yong-joon-chu-tich-jyp-tham-gia-hoi-cuong-giao-20180502120906018.chn 1 1
+http://admissions.hiu.vn 2 2
+http://shop.loa.com.vn/chu-t-roccat-kova-black.html 1 1
+http://www.canvietnhat.com 2 2
+http://caodangyduochanoi.vn/cao-dang-dieu-duong/chuong-trinh-dao-tao-cao-dang-dieu-duong-tphcm-2018-co-gi-moi-1000342 1 1
+http://dantri.com.vn/doi-song/hon-4000-nguoi-cao-tuoi-tphcm-tham-gia-hoi-thi-the-duc-duong-sinh-20171001213457828.htm 2 2
+http://kenh14.vn/san-pham-chua-ung-thu-lam-tu-bot-than-tre-nua-truoc-ngay-bi-bat-giam-doc-vinaca-van-livestream-chem-gio-20180503080732299.chn 1 1
+http://kenh14.vn/doan-phim-thuy-hu-ky-niem-20-nam-len-song-vo-tong-hoa-vinh-tay-mon-khanh-thay-doi-kho-long-nhan-ra-20180502145358564.chn 1 1
+http://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-quoc-te-hong-bang-HBU.html 1 1
+http://benhxahoi.xyz/benh-sui-mao-ga-nguyen-nhan-trieu-chung-va-cach-dieu-tri-10240.html 1 1
+http://kenh14.vn/tau-luon-truc-trac-nguoi-choi-bi-treo-nguoc-suot-2-gio-20180502085101971.chn 1 1
+http://m.kenh14.vn/sau-phat-ngon-cua-pham-anh-khoa-pham-lich-dap-tra-chuyen-toi-dua-len-la-hoan-toan-co-that-co-nhan-chung-bang-chung-20180501191027768.chn 1 1
+http://www.healthcare.com.vn/vi/chuyen-khoa/rang-ham-mat/ 2 3
+http://khamchuabenhdongy.com/buou-co/dieu-tri-buou-co-bang-dong-y-mang-lai-loi-ich-bat-ngo.html 2 2
+http://www.kitco.com/charts/livegold.html 1 1
+http://kenh14.vn/bo-bo-di-vi-me-sinh-nham-con-gai-dua-tre-6-tuoi-phai-nghi-hoc-vi-me-tat-nguyen-ong-ngoai-nhap-vien-khong-co-tien-chay-chua-20180503084733705.chn 1 1
+http://kenh14.vn/chuyen-hiem-co-o-show-hen-ho-chang-hot-boy-the-voice-bi-ca-3-nu-ung-cu-vien-tay-chay-20180502213805533.chn 1 1
+http://www.healthcare.com.vn/vi/chuyen-khoa/san-phu-khoa/ 1 1
+http://kenh14.vn/cuoc-song-hien-tai-cua-nguyet-trong-phia-truoc-la-bau-troi-sang-di-day-mua-toi-ve-lam-chu-quan-bia-20180503004224127.chn 1 1
+http://kenh14.vn/can-canh-nhan-sac-cua-nguyet-trong-phia-truoc-la-bau-troi-u40-nhung-van-rat-xinh-dep-va-thu-hut-2018050300033858.chn 1 1
+http://svhtt.hochiminhcity.gov.vn/web/guest/trang-chu 1 1
+http://kenh14.vn/duoc-sao-han-lang-xe-nhung-mon-do-tuong-rat-binh-thuong-bong-tro-nen-dac-biet-hot-20180502173232643.chn 1 1
+http://truyenfull.vn/ureka/geniee/geniee-mobile-300x250-2.html 1 1
+http://kenh14.vn/con-gai-se-thay-doi-the-nao-khi-het-yeu-muon-chia-tay-20180503000713502.chn 1 1
+http://www.medinet.hochiminhcity.gov.vn/Default.aspx 1 1
+http://kenh14.vn/chi-de-con-o-vuon-tre-vai-tieng-dong-ho-nguoi-me-bi-goi-quay-lai-don-con-khan-cap-va-thay-canh-tuong-kinh-hoang-20180502164129377.chn 2 2
+http://www.canvietnhat.com/can-suc-khoe/ 1 1
+http://coccoc.com/search 2 2
+http://www.thongtincongty.com 1 1
+http://coccoc.com/webhp 2 2
+http://www.healthcare.com.vn/vi/tin-tuc/suc-khoe-va-dinh-duong/tac-hai-cua-viec-uong-ruou-bia_160.html 2 4
+http://kenh14.vn/chuyen-nao-co-ai-ngo-nhung-cau-ban-chung-ta-cung-xua-duoi-nam-ay-lai-la-soai-ca-ngoi-ngoi-hom-nay-20180503030617236.chn 1 1
+http://soha.vn/ban-thuong-xuyen-cam-thay-buon-ngu-met-moi-day-co-the-la-nhung-nguyen-nhan-can-biet-20171006114314869.htm 2 2
+http://m.sggp.org.vn/tha-noi-thi-truong-kinh-thuoc-445809.html 2 2
+http://kenh14.vn/len-tieng-phu-nhan-dang-mang-thai-nhung-diep-lam-anh-van-lo-bung-to-trong-thay-truoc-ngay-cuoi-20180502133438721.chn 1 1
+http://kenh14.vn/mua-cho-nau-xoay-tit-tren-dinh-dau-nhung-vu-dieu-quyen-ru-nguoi-sai-gon-khap-moi-neo-duong-2018043022445308.chn 1 1
+http://scale.com.vn/Lien-he/Can-dien-tu-Hung-Viet.html 1 1
+http://ads.mopub.com 1 1
+http://kenh14.vn/su-dang-so-cua-gang-vo-cuc-bung-tay-de-giet-nua-dan-so-vu-tru-cung-chi-la-binh-thuong-20180503011206127.chn 1 1
+http://kenh14.vn/tinh-tu-hon-ca-cap-doi-chinh-my-nhan-nha-sm-moon-ga-young-va-woo-do-hwan-dinh-tin-don-hen-ho-20180502091928596.chn 1 1
+http://kenh14.vn/tranh-cai-xung-quanh-viec-phat-hien-mo-cua-ton-ngo-khong-tai-trung-quoc-20180502215312518.chn 1 1
+http://kenh14.vn/diep-lam-anh-dien-vay-co-dau-to-chuc-tiec-chia-tay-doi-doc-than-tren-bien-voi-hoi-ban-than-vbiz-20180503085039268.chn 1 1
+http://ads.pubmatic.com/AdServer/js/showad.js 1 1
+http://sstruyen.com/quangcao/frame.php 1 1
+http://scale.com.vn 1 1
+http://kenh14.vn/xem-xong-teaser-hay-chay-ngay-di-tat-ca-chung-ta-deu-bi-son-tung-m-tp-xo-mui-ca-roi-20180502210819236.chn 1 1
+http://kenh14.vn/nha-khao-co-va-phat-hien-chan-dong-the-ky-xx-mat-10-nam-moi-thong-ke-xong-20180502210435314.chn 1 1
+http://kenh14.vn/1001-bieu-cam-cua-fan-khi-bat-ngo-duoc-ariana-grande-up-sot-20180502214325393.chn 1 1
+http://ketoanthienung.org/tin-tuc/cach-viet-hoa-don-dieu-chinh-tang-giam-thue-suat-thue-gtgt.htm 1 1
+http://kenh14.vn/sai-gon-khong-di-dau-thi-ngoi-het-list-cafe-nay-cung-het-may-ngay-le-20180430001000299.chn 1 1
+http://dantri.com.vn/xa-hoi/cong-dong-mang-thich-thu-voi-cach-xu-ly-loi-khong-guong-chieu-hau-cua-csgt-20180503070818343.htm 2 2
+http://kenh14.vn/bonnie-va-clyde-cap-sat-thu-noi-tieng-khien-nuoc-my-khiep-so-chet-di-moi-hoan-thanh-tam-nguyen-duoc-hang-ngan-nguoi-dua-tang-20180502215548877.chn 2 2
+http://hiu.vn/vi/khoa/khoa-vien 2 2
+http://phimden.net/04/2018/chong-di-vang-vo-o-nha-voi-anh-chong/ 2 2
+http://www.yan.vn/nhung-doa-hoa-vang-trong-tay-duong-mich-131217.html 1 1
+http://www.healthcare.com.vn/vi/tin-tuc/suc-khoe-va-dinh-duong/xuat-huyet-am-dao_234.html 1 2
+http://bvhungvuong.vn 1 1
+http://kenh14.vn/chuyen-xe-28-giuong-nhung-co-den-60-hanh-khach-nam-chen-chuc-nhin-thoi-cung-thay-ngop-tho-20180502233435627.chn 2 2
+http://www.healthcare.com.vn/vi/tin-tuc/suc-khoe-va-dinh-duong/hieu-ve-benh-parkinson_291.html 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 177 40066
+302 3 0
+301 2366 554683
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 16
+/blog/wp-includes/wlwmanifest.xml 1 -
+/ads.txt 1 -
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/cms/wp-includes/wlwmanifest.xml 1 -
+/apple-touch-icon-precomposed.png 30 -
+/multidata/ 48 http://vigorhealth.com.vn/index.php
+/apple-touch-icon-120x120-precomposed.png 28 -
+/wp/wp-includes/wlwmanifest.xml 1 -
+/sitemap.xml 1 -
+/apple-touch-icon.png 30 -
+/apple-touch-icon-152x152.png 2 -
+/site/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/wlwmanifest.xml 1 -
+/xmlrpc.php 1 -
+/apple-touch-icon-120x120.png 28 -
+/apple-touch-icon-152x152-precomposed.png 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 107
+115.78.94.28 6105 6905 65346989 20180503112941 20180503000011 /lhc_web/index.php/site_admin/chat/syncadmininterface
+203.205.24.1 16 81 28523145 20180503051122
+66.249.82.190 15 75 2647548 20180503112836 20180503085750 /
+66.249.82.164 13 86 3138001 20180503103045 20180503085749 /lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/ec3izzlfvm76lauy3hw
+14.184.162.137 13 86 17829799 20180503100235
+42.117.236.102 12 89 2959405 20180503095723
+103.104.24.7 12 75 5913992 20180503110718 20180503110122 /lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/ul4ijs7weturjv0rz9
+1.55.3.244 9 10 309013 20180502214744
+66.249.82.161 9 88 7458394 20180503112839 20180503090212 /lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/9qbjisbn60c48qhl5yl
+14.232.252.252 9 63 2692618 20180503091013
+116.102.21.104 8 69 13003451 20180503110033 20180503105958 /lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/tarijipk1cd5juyd5bur
+210.245.114.19 8 64 2763600 20180503093656
+113.169.113.71 6 69 6464036 20180503101527
+171.248.187.186 6 62 3922264 20180503102111
+64.233.173.62 6 40 3602513 20180503112920 20180503112918 /lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/9qbjisbn60c48qhl5yl
+116.109.188.194 6 73 5423307 20180503080411
+14.161.5.141 6 98 10365583 20180503085336
+64.233.173.36 5 45 2020699 20180503112919 20180503112919 /lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/9qbjisbn60c48qhl5yl
+171.249.181.189 4 75 18295921 20180502222015
+113.190.215.88 4 46 11310045 20180502222752
+171.233.75.189 4 58 17733134 20180503003204
+118.71.203.111 4 92 2469502 20180503003950
+116.108.250.247 4 81 19452237 20180502224621
+180.93.168.225 4 30 596688 20180502192311
+42.119.3.60 4 53 1365892 20180503083905
+103.199.33.253 1 1 10835 20180503111551 20180503111551 /english
+42.118.171.25 1 2 37539 20180502202626
+27.67.138.233 0 1 184837 
+188.242.247.220 0 1 608114 
+116.100.229.240 2 4 75084 20180502225211
+113.161.0.102 3 42 2453348 20180503100215
+116.102.139.237 1 1 11255 20180502214615
+27.76.70.143 0 1 240574 
+14.174.148.22 1 2 37542 20180502191308
+27.67.141.115 1 2 37493 20180502192503
+123.21.198.255 1 1 7383 20180502224649
+27.67.128.33 1 2 37542 20180502224220
+103.199.32.201 1 1 7382 20180503104504 20180503104504 /dich-vu/goi-kham-suc-khoe-chuyen-sau/goi-kham-suc-khoe-chuyen-sau-danh-cho-nu-chua-ket-hon
+118.71.0.160 0 1 104985 
+27.76.115.137 1 2 37542 20180502212733
+1.52.3.167 1 2 37540 20180503054010
+14.167.20.140 1 1 33919 20180502191908
+123.26.61.93 1 2 37540 20180502195536
+1.66.96.95 1 1 10834 20180503062948
+49.98.137.195 1 1 10838 20180502222908
+113.185.22.202 0 1 184837 
+113.22.31.252 2 31 1161598 20180502210451
+115.76.179.116 0 1 308934 
+27.74.144.121 1 1 11245 20180502200206
+116.100.229.205 3 3 32510 20180503022039
+27.2.129.89 1 2 37562 20180503005522
+203.113.152.4 2 2 15434 20180503003136
+171.236.243.242 0 1 748555 
+203.113.152.5 1 1 11231 20180503055545
+118.69.225.107 3 31 781389 20180503095243
+118.70.131.4 0 1 184837 
+94.180.88.32 0 1 608114 
+203.113.152.7 2 2 15422 20180503061122
+171.253.17.213 1 2 37542 20180502232833
+115.77.17.131 0 1 435054 
+42.113.156.60 0 1 370699 
+27.67.129.133 1 2 37540 20180502210313
+14.237.219.98 1 2 37540 20180502214332
+46.242.125.105 0 1 158725 
+87.228.18.81 1 10 638982 20180503022833
+94.25.171.168 0 3 172701 
+118.69.34.244 1 44 2277697 20180503111336 20180503111336 /
+171.233.192.180 0 1 98392 
+27.64.71.74 3 48 5393039 20180502221541
+192.99.35.121 1 1 41871 20180503015839
+64.233.173.33 3 44 3495940 20180502231359
+93.179.68.152 1 1 11232 20180503004124
+23.99.101.118 1 1 41871 20180502220012
+14.165.124.163 2 47 1648835 20180503064526
+66.102.6.44 1 1 11227 20180503080056
+171.240.44.140 1 2 37540 20180502203906
+1.75.232.103 1 1 10838 20180502200622
+42.112.238.94 1 2 37542 20180502221548
+117.2.155.114 3 57 2590633 20180503085809
+46.161.9.14 1 1 41897 20180503014533
+162.250.126.68 1 1 41871 20180502231649
+42.113.173.10 2 46 1235152 20180502224342
+42.118.236.32 2 4 43445 20180503104310 20180503104309 /lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/ejsbnc1v0f9p5jhxko3o
+14.161.43.202 1 2 37542 20180503001730
+181.214.30.171 1 1 11231 20180503092537
+27.3.1.185 1 1 11236 20180503004855
+115.78.118.215 1 28 961572 20180502192530
+171.253.133.56 0 1 317949 
+105.112.98.25 2 55 2359653 20180503044003
+42.114.21.73 2 4 43494 20180503082833
+42.117.238.7 1 2 37540 20180502211444
+14.161.27.217 2 4 43494 20180503095022
+115.73.208.97 3 3 33701 20180503105122 20180503100513 /
+118.107.71.29 0 1 238236 
+202.167.250.59 3 3 79273 20180503103003 20180503102334 /lhc_web/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true
+45.125.206.46 2 13 312935 20180503111352 20180503111351 /lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/eq1ioh23tivrj73qzbs
+14.177.98.11 1 2 37542 20180502233906
+203.113.152.8 1 1 11226 20180503012512
+113.162.47.179 0 1 390761 
+1.52.34.56 3 3 33693 20180503062137
+176.171.165.115 1 2 37538 20180502212347
+27.2.140.74 1 1 11312 20180502210254
+1.53.242.75 1 1 11126 20180503090841
+171.227.246.183 1 1 11257 20180503033937
+5.188.62.117 2 2 83864 20180503004416
+183.80.40.202 2 48 2512340 20180502210006
+171.226.106.225 1 1 11267 20180502212308
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20180502 158 779 75350234 48
+20180503 6230 8388 214968923 58
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 3
+30s-2mn 9
+15mn-30mn 3
+30mn-1h 2
+0s-30s 68
+1h+ 1
+5mn-15mn 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 74
+/lhc_web/index.php/site_admin/chat/syncadmininterface 3749 2451846 0 0
+/index.php 2229 21991026 7 7
+/ 145 4815756 43 16
+/lhc_web/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true 129 4364520 35 44
+/lhc_web/index.php/site_admin/chat/syncadmin/ 10 960 0 0
+/english 9 97533 7 4
+/lien-he 6 53635 1 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/6rck4qc7rve6vya509r 6 0 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/gvb7f768r7m5dkvime 5 0 0 1
+/tin-tuc/tin-tuc-vigor/tre-em-co-can-kham-suc-khoe-tong-quat 4 42307 2 1
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/ujr41fy3lp7stattkccp 4 0 0 1
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/ul4ijs7weturjv0rz9 4 0 0 0
+/nhan-su-chu-luc-vigor 3 23232 0 0
+/dich-vu/dich-vu-y-te 3 28474 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/9qbjisbn60c48qhl5yl 3 0 1 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/ryzauqoivfbcruw5ij2k 3 0 0 1
+/dich-vu/kham-suc-khoe-doanh-nghiep/dich-vu-kham 3 24509 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/tarijipk1cd5juyd5bur 3 0 0 0
+/gioi-thieu/co-so-vat-chat/trang-thiet-bi 2 15480 0 0
+/dich-vu/goi-kham-suc-khoe-chuyen-sau/goi-kham-tong-quat-cho-cao-tuoi-nam 2 24310 2 0
+/dich-vu/goi-kham-suc-khoe-chuyen-sau/goi-kham-suc-khoe-chuyen-sau-danh-cho-nu-chua-ket-hon 2 14765 2 1
+/lhc_web/index.php/site_admin/ 2 6312 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/f4hldugci7jz9fenywtm 2 0 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/1cxfsv3cbn31gw2h2ctr 2 0 0 1
+/lhc_web/index.php/site_admin/user/login 2 2714 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/zbh5tvkjmjcjknu0g4b4 1 0 0 1
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/ec3izzlfvm76lauy3hw 1 0 0 0
+/tin-tuc/hoat-dong-xa-hoi-cua-vigor 1 10072 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/nx9831rngm173hzdmod 1 0 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/71mj8861wc394uqcmf6p 1 0 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/xwu08dh315qunah02s 1 0 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/hdav3zg9otb31o2c06i 1 0 0 1
+/tin-tuc/tin-tuc-vigor/mien-phi-phan-chenh-lech-phi-kham-danh-cho-khach-hang-su-dung-the-bhyt-tai-phong-kham-vigor-health 1 8495 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/646qmmq7gf4y0t48v5e 1 0 0 0
+/tin-tuc/tin-tuc-vigor/chuong-trinh-khuyen-mai-cac-goi-triet-long-tai-vigor-health 2 20116 1 0
+/dich-vu/goi-kham-suc-khoe-chuyen-sau/goi-kham-tong-quat-cho-nam 1 11266 0 0
+/lhc_web/index.php/site_admin/chat/single/927 1 1288 0 0
+/dich-vu/goi-kham-suc-khoe-chuyen-sau/goi-kham-tong-quat-cho-tre 2 22780 1 0
+/tin-tuc/hoat-dong-xa-hoi-cua-vigor/phong-kham-vigor-health-vui-tet-trung-thu-cung-cac-be-thieu-nhi-xa-xuan-que-dong-nai 1 9533 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/lqb002d5m0tgk0nryqb7 2 0 0 1
+/tin-tuc/tin-tuc-suc-khoe-dinh-duong/phong-kham-vigor-health-hop-tong-ket-cuoi-nam-2017 1 8372 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/zhg1un3vukletvvmi4k 1 0 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/fssjawbqxacn5e2a1d9r 1 0 0 1
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/uh72q2dcz8ib9t0a7v8 1 0 0 0
+/tin-tuc/tin-tuc-suc-khoe-dinh-duong/noi-soi-de-phat-hien-som-ung-thu-vom-hong 1 10036 1 0
+/lhc_web/index.php/chat/chatwidget/(leaveamessage)/true/(theme)/3/(vid)/f4hldugci7jz9fenywtm 1 2342 0 0
+/dich-vu/goi-kham-suc-khoe-chuyen-sau/index.php 1 7387 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/eq1ioh23tivrj73qzbs 1 0 0 0
+/lhc_web/index.php/site_admin/chat/adminchat/927 1 3667 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/ejsbnc1v0f9p5jhxko3o 1 0 0 0
+/tin-tuc/tin-tuc-vigor/insmart-phoi-hop-cung-phong-kham-vigor-health-to-chuc-buoi-health-talk-ky-nguyen-moi-trong-dieu-tri-viem-gan- 1 4195 0 1
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/nwjjhfsmy2owlhn9peb3 1 0 0 1
+/lhc_web/index.php/chat/chatwidget/(leaveamessage)/true/(theme)/3/(vid)/lowegjyrcpq23c37mui5 1 2302 0 1
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/hozh3pz6hawhc1y1h5i0 1 0 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/7yxxvx7ew3mamlg2euip 2 0 2 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/ofhyx8hsgdkj0uje58i9 1 0 0 1
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/cjrhg3ibakyjhnnyace7 1 0 0 1
+/dich-vu/kham-suc-khoe-doanh-nghiep/quy-trinh-kham 1 7708 0 0
+/tin-tuc/tin-tuc-suc-khoe-dinh-duong/benh-lao-phoi 1 11814 0 1
+/gioi-thieu/index.php 1 4315 0 0
+/tin-tuc/hoat-dong-xa-hoi-cua-vigor/phong-kham-vigor-health-dong-hanh-cung-toa-an-kinh-te-tphcm-xay-dung-nha-tinh-thuong-tai-xa-trung-an,-huyen-cu-chi 1 9285 0 0
+/dich-vu/goi-kham-suc-khoe-chuyen-sau-danh-cho-nu-chua-ket-hon 1 4195 0 1
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/m879wnqhip6wc9spjud 2 0 0 1
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/lowegjyrcpq23c37mui5 1 0 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/782mefnntkkt0y0gycna 1 0 0 1
+/lhc_web/design/defaulttheme/images/fonts/fontello.woff 2 41748 0 0
+/tin-tuc/hoat-dong-xa-hoi-cua-vigor/phong-kham-vigor-health-tai-tro-chuong-trinh-%E2%80%9Ctang-nha-nhan-ai%E2%80%9D-tai-tinh-tay-ninh 1 9176 0 0
+/gioi-thieu/gioi-thieu-chung 1 8952 0 0
+/tuyendung 2 20112 0 0
+/gioi-thieu/bo-may-nhan-su 1 7532 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/oyuna8mq55cl5i3aokz 1 0 0 0
+/khach-hang-vigor 1 8206 1 1
+/dich-vu/kham-suc-khoe-doanh-nghiep/bao-lanh-vien-phi 1 7487 0 0
+/lhc_web/index.php/chat/chatcheckoperatormessage/(theme)/3/(tz)/7/(count_page)/1/(vid)/osf27d83jvzbc30zgqe 1 0 0 0
+END_SIDER
